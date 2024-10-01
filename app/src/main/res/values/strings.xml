@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntercambioDivisas</string>
+
+    <string-array name="monedas">
+        <item>Dólares</item>
+        <item>Euros</item>
+        <item>Pesos Mexicanos</item>
+    </string-array>
+</resources>
