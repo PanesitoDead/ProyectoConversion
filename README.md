@@ -1,0 +1,1 @@
+---Aplicacion movil de transformacion de monedas: euros, dolares y pesos mexicanos a soles. Aplicativo movil desarrollado en Android Studio y con lenguaje Kotlin.--
